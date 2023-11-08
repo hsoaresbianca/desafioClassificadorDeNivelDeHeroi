@@ -1,8 +1,8 @@
 const inicioTexto = "O Herói de nome "
 const fimTexto = " está no nível: "
 
-let nomeHeroi = "Batman"; // criar html para que o usuário posso modificar este nome
-let xpHeroi = 3800; // criar html para que o usuário possa modificar este valor
+let nomeHeroi = "Batman"; // posso criar html/css para que o usuário possa modificar este nome
+let xpHeroi = 3800; // posso criar html/css para que o usuário possa modificar este valor
 
 //Se XP for menor do que 1.000 = Ferro
 if (xpHeroi <= 1000){
