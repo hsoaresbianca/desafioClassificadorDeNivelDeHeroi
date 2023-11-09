@@ -1,5 +1,5 @@
 # PROPOSTA do Desafio Classificador de Nível de Herói
-## 1. O Que deve ser utilizado
+## 1. O que deve ser utilizado
 - Variáveis
 - Operadores
 - Laços de repetição
