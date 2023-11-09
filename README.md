@@ -1,10 +1,10 @@
-# PROPOSTA do Desafio Classificador de nível de Herói
-## 1. O Que deve ser utilizado:
+# PROPOSTA do Desafio Classificador de Nível de Herói
+## 1. O Que deve ser utilizado
 - Variáveis
 - Operadores
 - Laços de repetição
 - Estruturas de decisões
-## 2. Objetivo:
+## 2. Objetivo
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 - Se XP for menor do que 1.000 = Ferro
 - Se XP for entre 1.001 e 2.000 = Bronze
@@ -14,5 +14,5 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 - Se XP for entre 8.001 e 9.000 = Ascendente
 - Se XP for entre 9.001 e 10.000= Imortal
 - Se XP for maior ou igual a 10.001 = Radiante
-## 3. Ao final deve se exibir uma mensagem:
+## 3. Saída
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
